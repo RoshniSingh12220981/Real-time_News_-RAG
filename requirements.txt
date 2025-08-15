@@ -1,0 +1,14 @@
+streamlit
+sentence-transformers
+chromadb
+newspaper3k
+requests
+pandas
+scikit-learn
+beautifulsoup4
+feedparser
+lxml[html_clean]
+transformers
+torch
+openai
+python-dotenv
