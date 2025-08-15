@@ -3,8 +3,10 @@ import streamlit as st
 import time
 import logging
 from datetime import datetime
-from ingestion.ingest import ingest_news
-from retrieval.search import search_news
+from ingest import ingest_news
+from search import search_news
+# from app.ingest import ingest_news
+# from retrieval.search import search_news
 
 # Import cache utilities from our improved modules
 try:
