@@ -1,5 +1,6 @@
 # Real-time News RAG with Fact-Checking
 
+##Deployed on Streamlit ("https://real-timenews-rag-roshni.streamlit.app/")
 ## Overview
 A Retrieval-Augmented Generation (RAG) system for real-time news ingestion, misinformation detection, fact-checking, and source credibility scoring. Built with Streamlit, HuggingFace Sentence Transformers, and ChromaDB.
 
