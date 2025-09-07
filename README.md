@@ -1,4 +1,4 @@
-# Real-time News RAG with Fact-Checking
+# Real-time News RAG with Fact-Checking (Retrieval-Augmented Generation)
 
 ##Deployed on Streamlit ("https://real-timenews-rag-roshni.streamlit.app/")
 ## Overview
